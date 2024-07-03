@@ -1,6 +1,6 @@
-Project Description: Weather Data Fetching Web Page
+Project Name: Weather Data Fetching Web Page
 Overview:
-      This project involves building a dynamic web page that fetches and displays weather data based on the user's location or a user-inputted location. The web page will         provide real-time weather information including current weather conditions, temperature. This will be achieved by integrating with a weather API.
+      This project involves building a dynamic web page that fetches and displays weather data based on the user's location or a user-inputted location. The web page will   provide real-time weather information including current weather conditions, temperature. This will be achieved by integrating with a weather API.
 
 Objectives
       User Location-Based Weather Data: Automatically fetch weather data based on the user's geographical location using the browser's geolocation API.
